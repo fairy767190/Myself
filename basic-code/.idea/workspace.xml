@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00f8bc45-52e1-4753-a549-cc2e01313122" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>byte</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Desktop/wuhan/VirusBroadcast" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="265" />
+    <option name="y" value="60" />
+    <option name="width" value="1305" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectId" id="1Z4PTP3iyTy7rfOkcy7UVSd8kYw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="ToolWindowTODO.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mybatis-Study" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.4536199" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\basic-code\NewEast\src\com\wangyuqi" />
+      <recent name="D:\IdeaProjects\basic-code\NewEast\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2">
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo01.Object.test" />
+      <module name="01_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.demo01.Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.demo01.Object.test2" />
+      <module name="01_API" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.demo01.Object.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00f8bc45-52e1-4753-a549-cc2e01313122" name="Default Changelist" comment="" />
+      <created>1576675304294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576675304294</updated>
+      <workItem from="1576675307917" duration="3671000" />
+      <workItem from="1577027394309" duration="826000" />
+      <workItem from="1577028349372" duration="80000" />
+      <workItem from="1577028476090" duration="845000" />
+      <workItem from="1577287089360" duration="647000" />
+      <workItem from="1577287765937" duration="81000" />
+      <workItem from="1577287934634" duration="379000" />
+      <workItem from="1577360440641" duration="1936000" />
+      <workItem from="1577362841595" duration="13000" />
+      <workItem from="1577363205413" duration="3545000" />
+      <workItem from="1577368923295" duration="436000" />
+      <workItem from="1577593623087" duration="2397000" />
+      <workItem from="1577633310497" duration="2966000" />
+      <workItem from="1577875599581" duration="5353000" />
+      <workItem from="1577966444654" duration="603000" />
+      <workItem from="1578110582574" duration="5243000" />
+      <workItem from="1578219193102" duration="1408000" />
+      <workItem from="1578912876988" duration="1055000" />
+      <workItem from="1578913999467" duration="62000" />
+      <workItem from="1578914152092" duration="679000" />
+      <workItem from="1578914896674" duration="4548000" />
+      <workItem from="1579020524920" duration="644000" />
+      <workItem from="1579021244718" duration="1685000" />
+      <workItem from="1579270218164" duration="472000" />
+      <workItem from="1579334307021" duration="223000" />
+      <workItem from="1579443794108" duration="1775000" />
+      <workItem from="1579960907103" duration="3298000" />
+      <workItem from="1580101188344" duration="6891000" />
+      <workItem from="1580211734718" duration="610000" />
+      <workItem from="1580879410606" duration="325000" />
+      <workItem from="1580985385096" duration="146000" />
+      <workItem from="1582206676553" duration="637000" />
+      <workItem from="1582294674592" duration="1288000" />
+      <workItem from="1582346787515" duration="66000" />
+      <workItem from="1582346893141" duration="189000" />
+      <workItem from="1582450671286" duration="2010000" />
+      <workItem from="1582736496604" duration="594000" />
+      <workItem from="1583232744383" duration="4537000" />
+      <workItem from="1583817493719" duration="714000" />
+      <workItem from="1584095403777" duration="136000" />
+      <workItem from="1584095560985" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="111" key="FileChooserDialogImpl" timestamp="1584095578732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="111" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584095578732" />
+    <state x="154" y="0" key="SettingsEditor" timestamp="1584095538095">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="154" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584095538095" />
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1584095560379">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584095560379" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>NewEast</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4536199" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4536199" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
